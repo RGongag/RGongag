@@ -1,6 +1,6 @@
 <!-- ENCABEZADO EDITORIAL -->
 <div align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=43&pause=1000&color=2CBC1B&width=435&lines=hi+i'm+Rodrigo!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=2CBC1B&width=435&lines=hi+i'm+Rodrigo!" alt="Typing SVG" /></a>
   <br>
   <b>ESTUDIANTE DE INGENIERÍA &nbsp;·&nbsp; DESARROLLO DE SOFTWARE &nbsp;·&nbsp; ZAMORA, ESPAÑA</b>
 </div>
