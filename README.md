@@ -29,7 +29,7 @@
       <code>● En formación / Abierto a oportunidades</code>
       <br><br>
       <b>PERFIL</b><br>
-      <a href="https://github.com">://github.com ↗</a>
+      <a href="https://github.com/RGongag">://github.com ↗</a>
       <br><br>
     </td>
   </tr>
@@ -41,7 +41,7 @@
 
 | Área | Lenguajes y Herramientas |
 | :--- | :--- |
-| **Backend & Lógica** | `Java` &nbsp;·&nbsp; `PHP` |
+| **Backend & Lógica** | `Java` &nbsp;·&nbsp; `PHP` &nbsp;·&nbsp; `C`|
 | **Frontend & Web** | `HTML5` &nbsp;·&nbsp; `JavaScript (JS)` |
 | **Bases de Datos** | `SQL` |
 | **Control de Versiones** | `Git` &nbsp;·&nbsp; `GitHub` |
